@@ -94,8 +94,7 @@ This dashboard offers a **data-driven approach** for HR professionals to enhance
 - **Power BI** - Data visualization and dashboard creation.
 - **Data Cleaning** - Ensuring high-quality insights.
 
-**🔹 Created by:** [Your Name]  
-**🔹 Dataset Source:** Internal HR Employee Data  
+**🔹 Created by:** Joan Wambui
 
 ---
 
