@@ -1,4 +1,4 @@
-# HR Analytics Dashboard - Power BI
+# HR Analytics Dashboard - SQL and Power BI
 ![image](https://github.com/user-attachments/assets/93f9c09b-e71a-413a-955f-49f78acc94cd)
 
 ## 📌 Project Overview
