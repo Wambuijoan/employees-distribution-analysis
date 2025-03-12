@@ -1,11 +1,11 @@
 # HR Analytics Dashboard - SQL and Power BI
 ![image](https://github.com/user-attachments/assets/93f9c09b-e71a-413a-955f-49f78acc94cd)
 
-## 📌 Project Overview
+## Project Overview
 The **HR Analytics Dashboard** is built using **Power BI** to provide comprehensive insights into employee distribution, retention, termination, and workforce trends. This project leverages structured **SQL queries** for data processing and visualization to help HR professionals make data-driven decisions.
 
 ---
-## 🎯 Objectives
+## Objectives
 - **Measure employee retention and termination rates** to assess workforce stability.
 - **Analyze workforce diversity** based on gender distribution.
 - **Evaluate turnover trends** across departments and locations.
@@ -13,12 +13,12 @@ The **HR Analytics Dashboard** is built using **Power BI** to provide comprehens
 - **Identify hiring and employment trends** over time.
 
 ---
-## 📂 Data Sources
+## Data Sources
 - **HR Employee Records Dataset** containing demographic details, hire and termination dates, and job-related information.
 - **SQL Queries** were used to extract key HR metrics before visualization in Power BI.
 
 ---
-## 📊 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 1. **Retention Rate (%)** - Percentage of employees retained.
 2. **Termination Rate (%)** - Percentage of employees leaving the company.
 3. **Average Tenure (Years)** - Measures the average duration employees stay.
@@ -70,7 +70,7 @@ FROM employees;
 - **KPI Cards** - Retention rate, termination rate, average tenure, and employment length.
 
 ---
-## 🔍 Insights & Business Impact
+## Insights & Business Impact
 - **82% retention rate** indicates workforce stability, with room for improvement.
 - **Turnover trends** highlight departments with high termination rates, guiding HR interventions.
 - **Tenure analysis** suggests longer employment correlates with higher retention.
@@ -78,11 +78,11 @@ FROM employees;
 - **Historical hiring trends** support predictive workforce forecasting.
 
 ---
-## 📌 Conclusion
+## Conclusion
 This dashboard offers a **data-driven approach** for HR professionals to enhance workforce planning, improve retention strategies, and drive better decision-making.
 
 ---
-## 🚀 Next Steps
+## Next Steps
 - Conduct **deep-dive analysis** on department-specific attrition trends.
 - Add HR metrics such as **promotion rates and performance evaluations**.
 - Automate data updates for real-time tracking.
