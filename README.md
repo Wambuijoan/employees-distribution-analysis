@@ -27,7 +27,7 @@ The **HR Analytics Dashboard** is built using **Power BI** to provide comprehens
 6. **% Change in Employee Numbers (2000-2020)** - Tracks historical hiring trends.
 
 ---
-## 🛠 Data Analysis Methodology
+## Data Analysis Methodology
 ### **SQL Queries & Data Cleaning:**
 ```sql
 -- Calculate retention and termination rates
