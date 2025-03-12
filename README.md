@@ -71,11 +71,11 @@ FROM employees;
 
 ---
 ## Insights & Business Impact
-- **82% retention rate** indicates workforce stability, with room for improvement.
-- **Turnover trends** highlight departments with high termination rates, guiding HR interventions.
-- **Tenure analysis** suggests longer employment correlates with higher retention.
-- **Geographical distribution** assists in strategic workforce planning.
-- **Historical hiring trends** support predictive workforce forecasting.
+- 82% Retention Rate indicates workforce stability but suggests potential improvement areas.
+- High turnover in specific departments signals the need for deeper HR interventions.
+- Longer tenure correlates with improved retention, emphasizing the importance of employee engagement.
+- Geographical workforce distribution aids in strategic hiring and resource allocation.
+- Historical hiring trends help in predictive HR planning.
 
 ---
 ## Conclusion
@@ -89,12 +89,10 @@ This dashboard offers a **data-driven approach** for HR professionals to enhance
 - Implement **predictive analytics** for future workforce planning.
 
 ---
-## 👨‍💻 Tech Stack & Tools
-- **SQL** - Data extraction and transformation.
-- **Power BI** - Data visualization and dashboard creation.
-- **Data Cleaning** - Ensuring high-quality insights.
-
-**🔹 Created by:** Joan Wambui
+##  Tech Stack & Tools
+- MySQL: Data storage and query execution.
+- Power BI: Data visualization and interactive dashboards.
+- SQL: Data transformation and metric calculations.
 
 ---
 
